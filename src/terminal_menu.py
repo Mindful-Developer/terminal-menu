@@ -1,4 +1,4 @@
-"""Utility module for tui elements"""
+"""Module for tui elements"""
 
 import sys
 import os

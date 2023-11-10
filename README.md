@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="Logo" width="500">
   </a>
 
-  <h3 align="center">PROJECT TEMPLATES</h3>
+  <h3 align="center">Terminal-Menu</h3>
 
   <p align="center">
     A collection of project templates to help you get started on your next project!
